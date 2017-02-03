@@ -1,13 +1,14 @@
 export EDITOR='vim'
 export HISTSIZE=‘100’
 export HISTFILESIZE="${HISTSIZE}"
+export HOMEBREW_NO_ANALYTICS=1
 
 export PATH="~/Library/Android/sdk/platform-tools:$PATH"
 
 alias cleariconcache='sudo find /private/var/folders/ -name com.apple.dock.iconcache -exec rm {} \;'
 
-if [ -f ~/.git-completion.bash ]; then
-  . ~/.git-completion.bash
+if [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
+  . /usr/local/etc/bash_completion.d/git-completion.bash
 fi
 
 if [ -f ~/.shell_prompt.sh ]; then
