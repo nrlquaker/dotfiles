@@ -12,4 +12,5 @@
     l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset), %an, %C(cyan)%cr%C(reset): %s\"
 [commit]
     template = ~/.stCommitMsg
-
+[diff]
+    wsErrorHighlight = all
