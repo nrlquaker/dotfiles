@@ -1,0 +1,15 @@
+# This is Git's per-user configuration file.
+[core]
+    editor = vim
+    quotepath = false
+    excludesfile = ~/.gitignore_global
+[credential]
+    helper = osxkeychain
+[alias]
+    st = status -sb
+    cho = checkout
+    tree = log --graph --oneline --decorate
+    l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset), %an, %C(cyan)%cr%C(reset): %s\"
+[commit]
+    template = ~/.stCommitMsg
+
