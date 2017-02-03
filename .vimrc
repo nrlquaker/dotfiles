@@ -7,9 +7,12 @@ set backspace=2    " make backspace work like most other apps
 set encoding=utf-8
 set termencoding=utf-8
 
+set list
+set listchars=tab:⇥· " show tabs
+
 set tabstop=4    " tab = 4 spaces
 set shiftwidth=4 " when indenting with '>', use 4 spaces width
-set expandtab    " On pressing tab, insert 4 spaces
+set expandtab    " on pressing tab, insert 4 spaces
 
 set autoread
 
