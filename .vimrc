@@ -35,7 +35,6 @@ let g:airline#extensions#tabline#tab_nr_type = 1           " show tab numbers
 
 " promptline
 let g:promptline_preset = {
-        \'a' : [ promptline#slices#host() ],
         \'b' : [ promptline#slices#user() ],
         \'c' : [ promptline#slices#cwd() ],
         \'y' : [ promptline#slices#vcs_branch() ]}
