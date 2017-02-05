@@ -39,4 +39,3 @@ let g:promptline_preset = {
         \'b' : [ promptline#slices#user() ],
         \'c' : [ promptline#slices#cwd() ],
         \'y' : [ promptline#slices#vcs_branch() ]}
-
