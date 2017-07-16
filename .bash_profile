@@ -3,7 +3,7 @@ export HISTSIZE=‘100’
 export HISTFILESIZE="${HISTSIZE}"
 export HOMEBREW_NO_ANALYTICS=1
 
-export PATH="~/Library/Android/sdk/platform-tools:$PATH"
+export PATH="/Users/$insert.username$/Library/Android/sdk/platform-tools:$PATH"
 
 alias cleariconcache='sudo find /private/var/folders/ -name com.apple.dock.iconcache -exec rm {} \;'
 
