@@ -1,8 +1,10 @@
-# This is Git's per-user configuration file.
 [core]
     editor = vim
     quotepath = false
     excludesfile = ~/.gitignore_global
+    mergeoptions = --no-edit
+[fetch]
+    prune = 1
 [credential]
     helper = osxkeychain
 [alias]
