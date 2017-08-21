@@ -37,6 +37,7 @@ cask "staraccess"
 cask "textmate"
 cask "transmission"
 cask "vlc"
+cask "winbox"
 cask "xld"
 cask "zeplin"
 mas "1Password", id: 443987910
