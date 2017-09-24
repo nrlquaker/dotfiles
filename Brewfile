@@ -32,6 +32,7 @@ cask "java"
 cask "joinme"
 cask "media-center"
 cask "musicbrainz-picard"
+cask "nfov"
 cask "orfo-plus"
 cask "proxifier"
 cask "qlmarkdown"
@@ -56,6 +57,7 @@ mas "GIPHY CAPTURE", id: 668208984
 mas "iStat Mini", id: 927292435
 mas "John's Background Switcher", id: 907640277
 mas "Keynote", id: 409183694
+mas "Leaf", id: 576338668
 mas "Lingvo Dictionary", id: 467622356
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
