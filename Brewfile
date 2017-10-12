@@ -19,7 +19,6 @@ cask "bartender"
 cask "dash"
 cask "flash-npapi"
 cask "flash-ppapi"
-cask "flux"
 cask "github-desktop"
 cask "google-chrome"
 cask "insomnia"
@@ -44,12 +43,12 @@ cask "typora"
 cask "visual-studio-code"
 cask "vlc"
 cask "webtorrent"
-cask "winbox"
 cask "xld"
 cask "zeplin"
 cask "caskroom/fonts/font-source-code-pro-for-powerline"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/nfov"
+cask "nrlquaker/personal/winbox-mac"
 mas "1Password", id: 443987910
 mas "Amphetamine", id: 937984704
 mas "GIPHY CAPTURE", id: 668208984
@@ -58,6 +57,7 @@ mas "John's Background Switcher", id: 907640277
 mas "Keynote", id: 409183694
 mas "Leaf", id: 576338668
 mas "Lingvo Dictionary", id: 467622356
+mas "Mactracker", id: 430255202
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
