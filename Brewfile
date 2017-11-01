@@ -48,7 +48,6 @@ cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/nfov"
 cask "nrlquaker/personal/winbox-mac"
 mas "1Password", id: 443987910
-mas "Amphetamine", id: 937984704
 mas "GIPHY CAPTURE", id: 668208984
 mas "iStat Mini", id: 927292435
 mas "John's Background Switcher", id: 907640277
