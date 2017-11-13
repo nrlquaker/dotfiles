@@ -1,6 +1,7 @@
 [user]
     name = nrlquaker
     email = ustynov.vy@gmail.com
+    signingkey = 9BB4BA9126E06D61
 [core]
     editor = vim
     quotepath = false
@@ -22,3 +23,5 @@
     clean = git-lfs clean -- %f
     smudge = git-lfs smudge -- %f
     process = git-lfs filter-process
+[commit]
+    gpgsign = true
