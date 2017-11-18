@@ -1,4 +1,4 @@
-export LANG='en'
+export LANG='en_US.UTF-8'
 export EDITOR='vim'
 export HISTSIZE=‘100’
 export HISTFILESIZE="${HISTSIZE}"
