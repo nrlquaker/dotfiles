@@ -3,6 +3,7 @@ tap "homebrew/core"
 tap "homebrew/bundle"
 tap "caskroom/fonts"
 tap "caskroom/cask"
+brew "cairo"
 brew "git"
 brew "git-lfs"
 brew "gnupg"
@@ -51,6 +52,7 @@ cask "caskroom/fonts/font-source-code-pro-for-powerline"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/winbox-mac"
 mas "1Password", id: 443987910
+mas "Amphetamine", id: 937984704
 mas "GIPHY CAPTURE", id: 668208984
 mas "iStat Mini", id: 927292435
 mas "John's Background Switcher", id: 907640277
