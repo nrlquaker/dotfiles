@@ -50,6 +50,7 @@ cask "xld"
 cask "zeplin"
 cask "caskroom/fonts/font-source-code-pro-for-powerline"
 cask "nrlquaker/personal/colorpicker-launcher"
+cask "nrlquaker/personal/png2icns"
 cask "nrlquaker/personal/winbox-mac"
 mas "1Password", id: 443987910
 mas "Amphetamine", id: 937984704
