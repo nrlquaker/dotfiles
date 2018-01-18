@@ -53,6 +53,7 @@ cask "caskroom/versions/skype7"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/png2icns"
 cask "nrlquaker/personal/winbox-mac"
+cask "nrlquaker/personal/winebottler"
 mas "1Password", id: 443987910
 mas "Amphetamine", id: 937984704
 mas "GIPHY CAPTURE", id: 668208984
