@@ -61,17 +61,18 @@ cask "xld"
 cask "zeplin"
 cask "caskroom/drivers/d-link-dub-e100"
 cask "caskroom/fonts/font-source-code-pro-for-powerline"
+cask "caskroom/versions/parallels11"
 cask "caskroom/versions/skype7"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/winbox-mac"
 cask "nrlquaker/personal/winebottler"
 mas "1Password", id: 443987910
-mas "Amphetamine", id: 937984704
 mas "GIPHY CAPTURE", id: 668208984
 mas "iStat Mini", id: 927292435
 mas "John's Background Switcher", id: 907640277
 mas "Keynote", id: 409183694
 mas "Leaf", id: 576338668
+mas "LimeChat", id: 414030210
 mas "Lingvo Dictionary", id: 467622356
 mas "Mactracker", id: 430255202
 mas "Numbers", id: 409203825
