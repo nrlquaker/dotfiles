@@ -15,7 +15,3 @@ fi
 if [ -f ~/.shell_prompt.sh ]; then
   . ~/.shell_prompt.sh
 fi
-
-if [ -f ~/.bash_profile_work ]; then
-  . ~/.bash_profile_work
-fi
