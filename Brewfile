@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
-tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
@@ -27,6 +26,7 @@ brew "youtube-dl"
 cask "android-studio"
 cask "bartender"
 cask "blockblock"
+cask "filezilla"
 cask "font-source-code-pro-for-powerline"
 cask "fork"
 cask "google-chrome"
@@ -34,7 +34,6 @@ cask "iina"
 cask "insomnia"
 cask "iterm2"
 cask "java"
-cask "joinme"
 cask "keepingyouawake"
 cask "knockknock"
 cask "media-center"
@@ -43,10 +42,8 @@ cask "nfov"
 cask "orfo-plus"
 cask "pablodraw"
 cask "parallels11"
-cask "proxifier"
 cask "ql-ansilove"
 cask "qlmarkdown"
-cask "quicklookapk"
 cask "retinizer"
 cask "sketch"
 cask "skype-for-business"
@@ -64,6 +61,7 @@ cask "zeplin"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/winbox-mac"
 cask "nrlquaker/personal/winebottler"
+mas "1Blocker", id: 1107421413
 mas "1Password", id: 443987910
 mas "GIPHY CAPTURE", id: 668208984
 mas "iStat Mini", id: 927292435
@@ -75,6 +73,7 @@ mas "Lingvo Dictionary", id: 467622356
 mas "Mactracker", id: 430255202
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
+mas "Parallels Desktop Lite", id: 1085114709
 mas "Parcel", id: 639968404
 mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
