@@ -21,7 +21,6 @@ brew "pidcat"
 brew "pinentry-mac"
 brew "ruby", link: true
 brew "speedtest-cli"
-brew "tree"
 brew "vim"
 brew "youtube-dl"
 cask "adium"
