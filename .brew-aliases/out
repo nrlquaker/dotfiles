@@ -1,0 +1,6 @@
+#! /usr/local/bin/bash
+# alias: brew out
+#:  * `out` [args...]
+#:    `brew out` is an alias for `brew outdated`
+brew outdated $*
+
