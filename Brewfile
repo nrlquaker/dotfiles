@@ -37,6 +37,8 @@ cask "iina"
 cask "insomnia"
 cask "iterm2"
 cask "keepingyouawake"
+cask "keka"
+cask "kekadefaultapp"
 cask "knockknock"
 cask "media-center"
 cask "musicbrainz-picard"
@@ -80,6 +82,5 @@ mas "Parcel", id: 639968404
 mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
-mas "The Unarchiver", id: 425424353
 mas "Ulysses", id: 623795237
 mas "Xcode", id: 497799835
