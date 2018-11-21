@@ -1,0 +1,2 @@
+# Save all videos to ~/Downloads
+-o '~/Downloads/%(title)s - %(id)s.%(ext)s'
