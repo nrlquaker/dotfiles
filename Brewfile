@@ -68,8 +68,8 @@ cask "nrlquaker/personal/winebottler"
 mas "1Blocker", id: 1107421413
 mas "1Password", id: 443987910
 mas "GIPHY CAPTURE", id: 668208984
+mas "Irvue", id: 1039633667
 mas "iStat Mini", id: 927292435
-mas "John's Background Switcher", id: 907640277
 mas "Keynote", id: 409183694
 mas "Leaf", id: 576338668
 mas "LimeChat", id: 414030210
@@ -82,5 +82,4 @@ mas "Parcel", id: 639968404
 mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
-mas "Ulysses", id: 623795237
 mas "Xcode", id: 497799835
