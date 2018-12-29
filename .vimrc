@@ -1,24 +1,26 @@
 syntax enable
 
-set laststatus=2   " always show statusbar
-set ttimeoutlen=10 " remove airline delay when exiting edit mode
-set backspace=2    " make backspace work like most other apps
-
-set wildmenu
+set laststatus=2         " always show statusbar
+set ttimeoutlen=10       " remove airline delay when exiting edit mode
+set backspace=2          " make backspace work like most other apps
+set wildmenu             " make tab completion for files/buffers act like bash
 
 set encoding=utf-8
 set termencoding=utf-8
+set number              " always show line numbers
 
-set list             " show whitespaces
-set listchars=tab:⇥· " show tabs
+set list                " show whitespaces
+set listchars=tab:⇥·    " show tabs
+set tabstop=4           " tab = 4 spaces
+set shiftwidth=4        " when indenting with '>', use 4 spaces width
+set expandtab           " on pressing tab, insert 4 spaces
+set softtabstop=4       " when hitting <BS>, pretend like a tab is removed, even if spaces
 
-set tabstop=4    " tab = 4 spaces
-set shiftwidth=4 " when indenting with '>', use 4 spaces width
-set expandtab    " on pressing tab, insert 4 spaces
+set autoread            " reload file when changed outside of vim
 
-set autoread     " reload file when changed outside of vim
-
-set hlsearch     " highlight search matches
+set incsearch           " show search matches as you type
+set ignorecase          " ignore case when searching
+set hlsearch            " highlight search matches
 " press Space to turn off highlighting and clear any message already displayed
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 " switch off highlighting when enter insert mode
