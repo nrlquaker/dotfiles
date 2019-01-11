@@ -1,0 +1,3 @@
+[submodule "ora.sh"]
+	path = ora.sh
+	url = https://github.com/kahkhang/ora.sh
