@@ -83,7 +83,6 @@ mas "com.khanov.BlockerMac", id: 1107421413
 mas "com.leonspok.osx.Irvue", id: 1039633667
 mas "com.mactrackerapp.Mactracker", id: 430255202
 mas "com.mr-brightside.ParcelOSX", id: 639968404
-mas "com.parallels.desktop.appstore", id: 1085114709
 mas "com.pixelmatorteam.pixelmator", id: 407963104
 mas "com.rockysandstudio.Leaf", id: 576338668
 mas "com.tinyspeck.slackmacgap", id: 803453959
