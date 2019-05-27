@@ -56,7 +56,6 @@ cask "pablodraw"
 cask "parallels11"
 cask "ql-ansilove"
 cask "qlmarkdown"
-cask "sketch"
 cask "skype"
 cask "sloth"
 cask "staraccess"
@@ -71,20 +70,19 @@ cask "xld"
 cask "zeplin"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/winebottler"
-mas "com.abbyy.lingvo", id: 467622356
-mas "com.agilebits.onepassword-osx", id: 443987910
-mas "com.apple.dt.Xcode", id: 497799835
-mas "com.apple.iWork.Keynote", id: 409183694
-mas "com.apple.iWork.Numbers", id: 409203825
-mas "com.apple.iWork.Pages", id: 409201541
-mas "com.bjango.iStatMini", id: 927292435
-mas "com.fasthatchapps.gifgrabberosx", id: 668208984
-mas "com.khanov.BlockerMac", id: 1107421413
-mas "com.leonspok.osx.Irvue", id: 1039633667
-mas "com.mactrackerapp.Mactracker", id: 430255202
-mas "com.mr-brightside.ParcelOSX", id: 639968404
-mas "com.pixelmatorteam.pixelmator", id: 407963104
-mas "com.rockysandstudio.Leaf", id: 576338668
-mas "com.tinyspeck.slackmacgap", id: 803453959
-mas "net.limechat.LimeChat-AppStore", id: 414030210
-mas "ru.keepcoder.Telegram", id: 747648890
+mas "1Blocker", id: 1107421413
+mas "1Password", id: 443987910
+mas "ABBYY Lingvo European", id: 467622356
+mas "GIPHY CAPTURE", id: 668208984
+mas "Irvue", id: 1039633667
+mas "iStat Mini", id: 927292435
+mas "Keynote", id: 409183694
+mas "Leaf", id: 576338668
+mas "LimeChat", id: 414030210
+mas "Mactracker", id: 430255202
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Parcel", id: 639968404
+mas "Pixelmator", id: 407963104
+mas "Telegram", id: 747648890
+mas "Xcode", id: 497799835
