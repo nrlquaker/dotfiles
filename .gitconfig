@@ -13,7 +13,7 @@
 [credential]
     helper = osxkeychain
 [alias]
-    st = status -sb
+    st = status -sb -uall
     cho = checkout
     tree = log --graph --oneline --decorate
     l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset), %an, %C(cyan)%cr%C(reset): %s\"
