@@ -6,6 +6,7 @@
     editor = vim
     quotepath = false
     excludesfile = ~/.gitignore_global
+    attributesfile = ~/.gitattributes_global
     mergeoptions = --no-edit
     autocrlf = input
 [fetch]
@@ -26,3 +27,5 @@
     process = git-lfs filter-process
 [commit]
     gpgsign = true
+[diff "plist"]
+    textconv = plutil -convert xml1 -o -
