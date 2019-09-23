@@ -31,6 +31,7 @@ brew "speedtest-cli"
 brew "tldr"
 brew "vim"
 brew "youtube-dl"
+cask "1password"
 cask "adium"
 cask "android-studio"
 cask "bartender"
@@ -73,7 +74,6 @@ cask "zeplin"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/winebottler"
 mas "1Blocker", id: 1107421413
-mas "1Password", id: 443987910
 mas "ABBYY Lingvo European", id: 467622356
 mas "GIPHY CAPTURE", id: 668208984
 mas "Irvue", id: 1039633667
@@ -86,5 +86,6 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
 mas "Pixelmator", id: 407963104
+mas "RSS Button for Safari", id: 1437501942
 mas "Telegram", id: 747648890
 mas "Xcode", id: 497799835
