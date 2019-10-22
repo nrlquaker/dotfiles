@@ -56,7 +56,6 @@ cask "netiquette"
 cask "nfov"
 cask "nrlquaker-winbox"
 cask "pablodraw"
-cask "parallels11"
 cask "ql-ansilove"
 cask "qlmarkdown"
 cask "skype"
@@ -73,7 +72,6 @@ cask "xld"
 cask "zeplin"
 cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/orfo-plus"
-cask "nrlquaker/personal/winebottler"
 mas "1Blocker", id: 1107421413
 mas "ABBYY Lingvo European", id: 467622356
 mas "GIPHY CAPTURE", id: 668208984
