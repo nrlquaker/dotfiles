@@ -67,11 +67,11 @@ cask "typora"
 cask "visual-studio-code"
 cask "whatsyoursign"
 cask "xld"
-cask "nrlquaker/personal/colorpicker-launcher"
 cask "nrlquaker/personal/orfo-plus"
 mas "1Blocker", id: 1107421413
 mas "ABBYY Lingvo European", id: 467622356
 mas "CleanLinksForGoogle", id: 1467225874
+mas "ColorSlurp", id: 1287239339
 mas "GIPHY CAPTURE", id: 668208984
 mas "Irvue", id: 1039633667
 mas "iStat Mini", id: 927292435
