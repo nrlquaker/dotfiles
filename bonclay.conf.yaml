@@ -18,3 +18,6 @@ spec:
   ~/.gitattributes_global: .gitattributes_global
   ~/.brew-aliases: .brew-aliases
   ~/.config/youtube-dl/config: .youtube-dl
+  ~/Library/Preferences/com.googlecode.iterm2.plist: com.googlecode.iterm2.plist
+  ~/Library/Application Support/com.colliderli.iina/input_conf/old hot keys.conf: com.colliderli.iina/input_conf/old hot keys.conf
+  ~/Library/Application Support/Code/User/settings.json: Code/User/settings.json
