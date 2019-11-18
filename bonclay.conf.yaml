@@ -1,0 +1,20 @@
+# For a detailed description on the different options and how to configure them,
+# refer to the user guide: https://github.com/talal/bonclay/blob/master/doc/guide.md
+backup:
+  overwrite: false
+
+restore:
+  overwrite: true
+
+sync:
+  clean: true
+  overwrite: true
+
+spec:
+  ~/.bash_profile: .bash_profile
+  ~/.vimrc: .vimrc
+  ~/.gitconfig: .gitconfig
+  ~/.gitignore_global: .gitignore_global
+  ~/.gitattributes_global: .gitattributes_global
+  ~/.brew-aliases: .brew-aliases
+  ~/.config/youtube-dl/config: .youtube-dl
