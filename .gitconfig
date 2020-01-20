@@ -20,11 +20,6 @@
     l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset), %an, %C(cyan)%cr%C(reset): %s\"
 [diff]
     wsErrorHighlight = all
-[filter "lfs"]
-    required = true
-    clean = git-lfs clean -- %f
-    smudge = git-lfs smudge -- %f
-    process = git-lfs filter-process
 [commit]
     gpgsign = true
 [diff "plist"]
