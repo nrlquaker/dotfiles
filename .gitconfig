@@ -22,5 +22,7 @@
     wsErrorHighlight = all
 [commit]
     gpgsign = true
+[color]
+    status = always
 [diff "plist"]
     textconv = plutil -convert xml1 -o -
