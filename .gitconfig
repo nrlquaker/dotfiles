@@ -9,6 +9,7 @@
     attributesfile = ~/.gitattributes_global
     mergeoptions = --no-edit
     autocrlf = input
+    pager = /usr/local/opt/git/share/git-core/contrib/diff-highlight/diff-highlight | less
 [fetch]
     prune = 1
 [credential]
@@ -17,7 +18,7 @@
     st = status -sb -uall
     cho = checkout
     tree = log --graph --oneline --decorate
-    l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset), %an, %C(cyan)%cr%C(reset): %s\"
+    l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %an, %C(cyan)%cr%C(reset): %s\"
 [diff]
     wsErrorHighlight = all
 [commit]
@@ -26,3 +27,5 @@
     status = always
 [diff "plist"]
     textconv = plutil -convert xml1 -o -
+[interactive]
+    diffFilter = /usr/local/opt/git/share/git-core/contrib/diff-highlight/diff-highlight
