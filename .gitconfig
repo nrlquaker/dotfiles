@@ -12,6 +12,8 @@
     pager = /usr/local/opt/git/share/git-core/contrib/diff-highlight/diff-highlight | less
 [fetch]
     prune = 1
+[pull]
+    rebase = true
 [credential]
     helper = osxkeychain
 [alias]
