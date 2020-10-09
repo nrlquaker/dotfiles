@@ -20,6 +20,7 @@ export PATH="/usr/local/opt/ruby/bin:/Users/vasyl.ustynov/Library/Android/sdk/pl
 
 alias bandcamp-dl="bandcamp-dl --full-album --embed-lyrics --no-slugify --base-dir='/Users/vasyl.ustynov/Downloads'"
 alias ls='ls -F'
+alias myip='curl ipecho.net/plain ; echo'
 
 if [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
   . /usr/local/etc/bash_completion.d/git-completion.bash
