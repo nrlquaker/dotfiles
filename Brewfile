@@ -23,7 +23,6 @@ brew "talal/tap/bonclay"
 cask "1password"
 cask "android-studio"
 cask "bartender"
-cask "blockblock"
 cask "deadbeef-devel"
 cask "discord"
 cask "figma"
@@ -35,7 +34,6 @@ cask "iterm2"
 cask "keka"
 cask "kekaexternalhelper"
 cask "latest"
-cask "lulu"
 cask "media-center"
 cask "musicbrainz-picard"
 cask "nfov"
@@ -59,11 +57,13 @@ mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
 mas "LimeChat", id: 414030210
 mas "Numbers", id: 409203825
+mas "OpenIn", id: 1547147101
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
 mas "PiPifier", id: 1160374471
 mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
+mas "Spark", id: 1176895641
 mas "Telegram", id: 747648890
 mas "Twitter", id: 1482454543
 mas "Xcode", id: 497799835
