@@ -49,7 +49,7 @@ cask "transmission"
 cask "typora"
 cask "xld"
 cask "zoom"
-mas "1Blocker", id: 1107421413
+mas "1Blocker", id: 1365531024
 mas "ABBYY Lingvo European", id: 467622356
 mas "ColorSlurp", id: 1287239339
 mas "Furiganify!", id: 1151320968
