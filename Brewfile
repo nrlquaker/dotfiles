@@ -45,7 +45,6 @@ cask "pgadmin4"
 cask "ql-ansilove"
 cask "qlmarkdown"
 cask "sloth"
-cask "textmate"
 cask "transmission"
 cask "typora"
 cask "xld"
@@ -53,6 +52,7 @@ cask "zoom"
 mas "1Blocker", id: 1365531024
 mas "ABBYY Lingvo European", id: 467622356
 mas "ColorSlurp", id: 1287239339
+mas "CotEditor", id: 1024640650
 mas "Furiganify!", id: 1151320968
 mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
