@@ -47,7 +47,6 @@ cask "transmission"
 cask "typora"
 cask "xld"
 cask "zoom"
-mas "1Blocker", id: 1365531024
 mas "ABBYY Lingvo European", id: 467622356
 mas "ColorSlurp", id: 1287239339
 mas "CotEditor", id: 1024640650
@@ -64,4 +63,5 @@ mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
 mas "Twitter", id: 1482454543
 mas "Unsplash Wallpapers", id: 1284863847
+mas "Wipr", id: 1320666476
 mas "Xcode", id: 497799835
