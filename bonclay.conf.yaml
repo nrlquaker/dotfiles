@@ -17,6 +17,6 @@ spec:
   ~/.gitignore_global: .gitignore_global
   ~/.gitattributes_global: .gitattributes_global
   ~/.brew-aliases: .brew-aliases
-  ~/.config/youtube-dl/config: .youtube-dl
+  ~/.config/yt-dlp/config: .youtube-dl
   ~/Library/Preferences/com.googlecode.iterm2.plist: com.googlecode.iterm2.plist
   ~/Library/Application Support/Code/User/settings.json: Code/User/settings.json

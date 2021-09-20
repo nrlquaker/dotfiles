@@ -7,6 +7,7 @@ tap "homebrew/core"
 tap "nrlquaker/createzap"
 tap "nrlquaker/personal"
 tap "talal/tap"
+tap "yt-dlp/taps"
 brew "asciinema"
 brew "bandcamp-dl"
 brew "bash"
@@ -19,8 +20,8 @@ brew "mas"
 brew "pinentry-mac"
 brew "tldr"
 brew "vim"
-brew "youtube-dl"
 brew "talal/tap/bonclay"
+brew "yt-dlp/taps/yt-dlp"
 cask "1password"
 cask "android-studio"
 cask "bartender"
@@ -51,6 +52,7 @@ mas "ABBYY Lingvo European", id: 467622356
 mas "ColorSlurp", id: 1287239339
 mas "CotEditor", id: 1024640650
 mas "Furiganify!", id: 1151320968
+mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
 mas "LimeChat", id: 414030210
 mas "Numbers", id: 409203825
@@ -62,6 +64,5 @@ mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
 mas "Twitter", id: 1482454543
-mas "Unsplash Wallpapers", id: 1284863847
 mas "Wipr", id: 1320666476
 mas "Xcode", id: 497799835
