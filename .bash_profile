@@ -14,6 +14,8 @@ export HOMEBREW_NO_GITHUB_API=1
 export HOMEBREW_NO_AUTO_UPDATE=1
 export HOMEBREW_INSTALL_CLEANUP=1
 
+export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/Contents/Home/"
+
 export GPG_TTY=$(tty)
 
 export PATH="/usr/local/opt/ruby/bin:/Users/vasyl.ustynov/Library/Android/sdk/platform-tools:$PATH"
