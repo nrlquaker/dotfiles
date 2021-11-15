@@ -23,9 +23,11 @@ brew "yt-dlp/taps/yt-dlp"
 cask "1password"
 cask "android-studio"
 cask "bartender"
-cask "deadbeef-devel"
+cask "deadbeef-nightly"
 cask "discord"
 cask "figma"
+cask "font-jetbrains-mono"
+cask "google-chrome"
 cask "iina"
 cask "iterm2"
 cask "keka"
@@ -55,4 +57,3 @@ mas "PiPifier", id: 1160374471
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
 mas "Wipr", id: 1320666476
-mas "Xcode", id: 497799835
