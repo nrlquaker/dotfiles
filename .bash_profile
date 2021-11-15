@@ -24,6 +24,8 @@ alias bandcamp-dl="bandcamp-dl --full-album --embed-lyrics --no-slugify --base-d
 alias ls='ls -F'
 alias myip='curl ipecho.net/plain ; echo'
 
+eval "$(/opt/homebrew/bin/brew shellenv)"
+
 if [ -f /usr/local/etc/bash_completion.d/git-completion.bash ]; then
   . /usr/local/etc/bash_completion.d/git-completion.bash
 fi
