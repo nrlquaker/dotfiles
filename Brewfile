@@ -8,10 +8,8 @@ tap "nrlquaker/createzap"
 tap "nrlquaker/personal"
 tap "talal/tap"
 tap "yt-dlp/taps"
-brew "asciinema"
 brew "bandcamp-dl"
 brew "bash"
-brew "exiftool"
 brew "ffmpeg"
 brew "git"
 brew "gnupg"
@@ -28,15 +26,12 @@ cask "bartender"
 cask "deadbeef-devel"
 cask "discord"
 cask "figma"
-cask "font-source-code-pro-for-powerline"
 cask "iina"
-cask "insomnia"
 cask "iterm2"
 cask "keka"
 cask "kekaexternalhelper"
 cask "media-center"
 cask "musicbrainz-picard"
-cask "nfov"
 cask "nrlquaker-winbox"
 cask "orfo-plus"
 cask "pablodraw"
@@ -53,15 +48,11 @@ mas "CotEditor", id: 1024640650
 mas "Furiganify!", id: 1151320968
 mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
-mas "LimeChat", id: 414030210
 mas "Numbers", id: 409203825
-mas "OpenIn", id: 1547147101
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
 mas "PiPifier", id: 1160374471
-mas "Pixelmator", id: 407963104
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
-mas "Twitter", id: 1482454543
 mas "Wipr", id: 1320666476
 mas "Xcode", id: 497799835
