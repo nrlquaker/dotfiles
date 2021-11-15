@@ -9,7 +9,7 @@
     attributesfile = ~/.gitattributes_global
     mergeoptions = --no-edit
     autocrlf = input
-    pager = /usr/local/opt/git/share/git-core/contrib/diff-highlight/diff-highlight | less
+    pager = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight | less 
 [fetch]
     prune = 1
 [pull]
@@ -30,4 +30,4 @@
 [diff "plist"]
     textconv = plutil -convert xml1 -o -
 [interactive]
-    diffFilter = /usr/local/opt/git/share/git-core/contrib/diff-highlight/diff-highlight
+    diffFilter = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight
