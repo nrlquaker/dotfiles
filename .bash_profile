@@ -20,7 +20,7 @@ export GPG_TTY=$(tty)
 
 export PATH="/usr/local/opt/ruby/bin:~/Library/Android/sdk/platform-tools:$PATH"
 
-alias bandcamp-dl="bandcamp-dl --full-album --embed-lyrics --no-slugify --base-dir='/Users/vasyl.ustynov/Downloads'"
+alias bandcamp-dl="bandcamp-dl --full-album --embed-lyrics --no-slugify --base-dir=$HOME/Downloads"
 alias ls='ls -F'
 alias myip='curl ipecho.net/plain ; echo'
 
