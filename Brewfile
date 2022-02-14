@@ -43,8 +43,7 @@ cask "sloth"
 cask "transmission"
 cask "typora"
 cask "xld"
-cask "zoom"
-mas "ABBYY Lingvo European", id: 467622356
+mas "ABBYY Lingvo European Dictionary", id: 467622356
 mas "ColorSlurp", id: 1287239339
 mas "CotEditor", id: 1024640650
 mas "Furiganify!", id: 1151320968
