@@ -14,7 +14,7 @@ export HOMEBREW_NO_GITHUB_API=1
 export HOMEBREW_NO_AUTO_UPDATE=1
 export HOMEBREW_INSTALL_CLEANUP=1
 
-export JAVA_HOME="/Library/Java/JavaVirtualMachines/openjdk.jdk/Contents/Home/"
+export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/Contents/Home/"
 
 export GPG_TTY=$(tty)
 
