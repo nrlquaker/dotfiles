@@ -51,6 +51,12 @@ let g:airline#extensions#tabline#show_close_button = 0
 let g:airline#extensions#tabline#formatter = 'unique_tail' " hide path for unique files
 let g:airline#extensions#tabline#show_buffers = 0          " hide buffers
 let g:airline#extensions#tabline#tab_nr_type = 1           " show tab numbers
+if !exists('g:airline_symbols')
+    let g:airline_symbols = {}
+  endif
+let g:airline_symbols.maxlinenr = ''
+let g:airline_symbols.linenr = ' '
+let g:airline_symbols.colnr = ' '
 
 " promptline
 let g:promptline_theme = 'airline'
