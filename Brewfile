@@ -20,7 +20,7 @@ brew "tldr"
 brew "vim"
 brew "talal/tap/bonclay"
 brew "yt-dlp/taps/yt-dlp"
-cask "1password"
+cask "1password7"
 cask "android-studio"
 cask "deadbeef-nightly"
 cask "discord"
@@ -45,7 +45,6 @@ mas "ABBYY Lingvo European Dictionary", id: 467622356
 mas "ColorSlurp", id: 1287239339
 mas "CotEditor", id: 1024640650
 mas "Furiganify!", id: 1151320968
-mas "Irvue", id: 1039633667
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
