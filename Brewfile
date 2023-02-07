@@ -49,7 +49,6 @@ mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
-mas "PiPifier", id: 1160374471
 mas "Pixea", id: 1507782672
 mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
