@@ -19,7 +19,7 @@ export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home/"
 
 export GPG_TTY=$(tty)
 
-export PATH="/usr/local/opt/ruby/bin:~/Library/Android/sdk/platform-tools:$PATH"
+export PATH="/usr/local/opt/ruby/bin:/$HOME/Library/Android/sdk/platform-tools:$PATH"
 
 alias bandcamp-dl="bandcamp-dl --full-album --embed-lyrics --no-slugify --base-dir=$HOME/Downloads"
 alias ls='ls -F'
