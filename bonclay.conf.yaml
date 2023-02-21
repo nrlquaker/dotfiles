@@ -17,4 +17,3 @@ spec:
   ~/.gitignore_global: .gitignore_global
   ~/.gitattributes_global: .gitattributes_global
   ~/.config/yt-dlp/config: .youtube-dl
-  ~/Library/Preferences/com.googlecode.iterm2.plist: com.googlecode.iterm2.plist
