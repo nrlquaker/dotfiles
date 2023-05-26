@@ -17,3 +17,4 @@ spec:
   ~/.gitignore_global: .gitignore_global
   ~/.gitattributes_global: .gitattributes_global
   ~/.config/yt-dlp/config: .youtube-dl
+  ~/.curlrc: .curlrc
