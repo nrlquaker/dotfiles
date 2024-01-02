@@ -53,4 +53,5 @@ mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
 mas "Pixea", id: 1507782672
 mas "Slack", id: 803453959
+mas "SponsorBlock for YouTube - Skip Sponsorships", id: 1573461917
 mas "Wipr", id: 1320666476
