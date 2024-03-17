@@ -9,7 +9,7 @@
     attributesfile = ~/.gitattributes_global
     mergeoptions = --no-edit
     autocrlf = input
-    pager = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight | less 
+    pager = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight | less
 [fetch]
     prune = 1
 [pull]
