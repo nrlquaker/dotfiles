@@ -8,6 +8,8 @@
 	<dict/>
 	<key>Default Bookmark Guid</key>
 	<string>0DFF1B5B-FD06-4B71-A637-5CC1D5525CAF</string>
+	<key>EnableAPIServer</key>
+	<false/>
 	<key>HapticFeedbackForEsc</key>
 	<false/>
 	<key>HideActivityIndicator</key>
@@ -689,6 +691,8 @@
 			</dict>
 			<key>Send Code When Idle</key>
 			<false/>
+			<key>Set Local Environment Vars</key>
+			<integer>3</integer>
 			<key>Shortcut</key>
 			<string></string>
 			<key>Show Status Bar</key>
