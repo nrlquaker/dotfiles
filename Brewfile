@@ -1,6 +1,5 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
-tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "nrlquaker/createzap"
 tap "nrlquaker/personal"
@@ -21,6 +20,7 @@ brew "yt-dlp"
 brew "talal/tap/bonclay"
 cask "1password@7"
 cask "android-studio"
+cask "chatgpt"
 cask "deadbeef@nightly"
 cask "figma"
 cask "font-jetbrains-mono"
@@ -48,6 +48,7 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Parcel", id: 639968404
 mas "Pixea", id: 1507782672
+mas "Sensei", id: 1495789984
 mas "Slack", id: 803453959
 mas "SponsorBlock", id: 1573461917
 mas "Wipr", id: 1320666476
