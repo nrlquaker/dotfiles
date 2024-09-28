@@ -31,3 +31,5 @@
     textconv = plutil -convert xml1 -o -
 [interactive]
     diffFilter = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight
+[init]
+    defaultBranch = master
