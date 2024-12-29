@@ -18,3 +18,4 @@ spec:
   ~/.gitattributes_global: .gitattributes_global
   ~/.config/yt-dlp/config: .youtube-dl
   ~/.curlrc: .curlrc
+  ~/.config/ghostty/config: .ghostty
