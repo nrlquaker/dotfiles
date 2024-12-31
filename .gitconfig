@@ -29,6 +29,9 @@
     status = always
 [diff "plist"]
     textconv = plutil -convert xml1 -o -
+[merge "mergiraf"]
+    name = mergiraf
+    driver = mergiraf merge --git %O %A %B -s %S -x %X -y %Y -p %P
 [interactive]
     diffFilter = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight
 [init]
