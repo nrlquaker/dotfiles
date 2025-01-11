@@ -16,3 +16,6 @@ shell-integration-features = no-cursor
 
 working-directory="/Users/vasylustynov/Projects"
 window-inherit-working-directory = false
+
+# https://github.com/m-ahdal/ghostty-shaders
+# custom-shader = "glitchy.glsl"
