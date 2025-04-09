@@ -36,3 +36,5 @@
     diffFilter = `brew --prefix git`/share/git-core/contrib/diff-highlight/diff-highlight
 [init]
     defaultBranch = master
+[advice]
+    forceDeleteBranch = false
