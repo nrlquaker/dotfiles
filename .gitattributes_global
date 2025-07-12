@@ -4,6 +4,9 @@
 *.kt merge=mergiraf
 *.rs merge=mergiraf
 *.go merge=mergiraf
+go.mod merge=mergiraf
+go.sum merge=mergiraf
+*.ini merge=mergiraf
 *.js merge=mergiraf
 *.jsx merge=mergiraf
 *.mjs merge=mergiraf
@@ -42,7 +45,15 @@
 *.sol merge=mergiraf
 *.lua merge=mergiraf
 *.rb merge=mergiraf
+*.ex merge=mergiraf
+*.exs merge=mergiraf
 *.nix merge=mergiraf
 *.sv merge=mergiraf
 *.svh merge=mergiraf
 *.md merge=mergiraf
+*.hcl merge=mergiraf
+*.tf merge=mergiraf
+*.tfvars merge=mergiraf
+*.ml merge=mergiraf
+*.mli merge=mergiraf
+*.hs merge=mergiraf
