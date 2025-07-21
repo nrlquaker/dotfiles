@@ -21,6 +21,7 @@
     cho = checkout
     tree = log --graph --oneline --decorate
     l = log --decorate --pretty=format:\"%C(yellow)%h%C(reset)%C(auto)%d%C(reset) %an, %C(cyan)%cr%C(reset): %s\"
+    rebase = rebase --rebase-merges
 [diff]
     wsErrorHighlight = all
 [commit]
