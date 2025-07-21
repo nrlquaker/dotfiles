@@ -38,3 +38,4 @@
     defaultBranch = master
 [advice]
     forceDeleteBranch = false
+    skippedCherryPicks = false
