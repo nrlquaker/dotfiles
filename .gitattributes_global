@@ -57,3 +57,6 @@ go.sum merge=mergiraf
 *.ml merge=mergiraf
 *.mli merge=mergiraf
 *.hs merge=mergiraf
+*.mk merge=mergiraf
+Makefile merge=mergiraf
+GNUmakefile merge=mergiraf
