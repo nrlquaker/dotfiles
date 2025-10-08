@@ -44,7 +44,7 @@ Plug 'bronson/vim-trailing-whitespace'
 call plug#end()
 
 " airlane
-let g:airline_theme='solarized'
+let g:airline_theme='selenized'
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 let g:airline#extensions#tabline#show_close_button = 0
