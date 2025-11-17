@@ -1,4 +1,4 @@
 # Save all videos to ~/Downloads
 -o '~/Downloads/%(title)s - %(id)s.%(ext)s'
-# Set client to web
---extractor-args youtube:player_client=web
+# Download chapters
+--embed-chapters
