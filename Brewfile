@@ -37,7 +37,6 @@ cask "telegram"
 cask "transmission"
 cask "xld"
 mas "ABBYY Lingvo European Dictionary", id: 467622356
-mas "AdGuard for Safari", id: 1440147259
 mas "ColorSlurp", id: 1287239339
 mas "CotEditor", id: 1024640650
 mas "Furiganify", id: 1151320968
@@ -51,3 +50,4 @@ mas "Sensei", id: 1495789984
 mas "Sink It", id: 6449873635
 mas "Slack", id: 803453959
 mas "SponsorBlock", id: 1573461917
+mas "wBlock", id: 6746388723
