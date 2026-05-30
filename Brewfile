@@ -6,6 +6,7 @@ brew "bash-completion@2"
 brew "gh"
 brew "git"
 brew "gnupg"
+brew "hevi"
 brew "jq"
 brew "mas"
 brew "mergiraf"
@@ -50,4 +51,5 @@ mas "Sensei", id: 1495789984
 mas "Sink It", id: 6449873635
 mas "Slack", id: 803453959
 mas "SponsorBlock", id: 1573461917
+mas "TestFlight", id: 899247664
 mas "wBlock", id: 6746388723
