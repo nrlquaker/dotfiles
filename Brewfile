@@ -1,4 +1,3 @@
-tap "nrlquaker/createzap"
 tap "nrlquaker/personal"
 brew "bandcamp-dl"
 brew "bash"
