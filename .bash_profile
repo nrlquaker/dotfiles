@@ -14,6 +14,7 @@ export HOMEBREW_NO_GITHUB_API=1
 export HOMEBREW_NO_AUTO_UPDATE=1
 export HOMEBREW_NO_ENV_HINTS=1
 export HOMEBREW_INSTALL_CLEANUP=1
+export HOMEBREW_BUNDLE_NO_DESCRIBE=1
 
 export JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home/"
 
