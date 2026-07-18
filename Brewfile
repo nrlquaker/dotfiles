@@ -28,6 +28,7 @@ cask "ghostty"
 cask "iina"
 cask "keka"
 cask "kekaexternalhelper"
+cask "launchos"
 cask "mongodb-realm-studio"
 cask "musicbrainz-picard"
 cask "qlmarkdown"
@@ -42,7 +43,6 @@ mas "CotEditor", id: 1024640650
 mas "Furiganify", id: 1151320968
 mas "Hush", id: 1544743900
 mas "Keynote", id: 361285480
-mas "LaunchMe", id: 6751939046
 mas "Numbers", id: 361304891
 mas "Pages", id: 361309726
 mas "Pixea", id: 1507782672
