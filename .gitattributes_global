@@ -101,3 +101,4 @@ PKGBUILD merge=mergiraf
 *.hrl merge=mergiraf
 *.escript merge=mergiraf
 *.m merge=mergiraf
+*.qml merge=mergiraf
