@@ -1,4 +1,4 @@
-tap "nrlquaker/personal"
+tap "nrlquaker/personal", trusted: true
 brew "bandcamp-dl"
 brew "bash"
 brew "bash-completion@2"
@@ -13,7 +13,7 @@ brew "scrcpy"
 brew "tlrc"
 brew "vim"
 brew "yt-dlp"
-brew "nrlquaker/personal/bonclay", trusted: true
+brew "nrlquaker/personal/dots"
 cask "1password@7"
 cask "android-studio"
 cask "chatgpt-classic"
