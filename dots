@@ -1,0 +1,43 @@
+{
+  "backup":  { "overwrite": false },
+  "restore": { "overwrite": false },
+  "sync":    { "overwrite": false },
+  "dots": {
+    "config": {
+    	"source": "~/.config/dots/config",
+    	"target": "~/Projects/mine/dotfiles/dots"
+    },
+    "bash_profile": {
+    	"source": "~/.bash_profile",
+    	"target": "~/Projects/mine/dotfiles/.bash_profile"
+    },
+    "vimrc": {
+    	"source": "~/.vimrc",
+    	"target": "~/Projects/mine/dotfiles/.vimrc"
+    },
+    "gitconfig": {
+    	"source": "~/.gitconfig",
+    	"target": "~/Projects/mine/dotfiles/.gitconfig"
+    },
+    "gitignore_global": {
+    	"source": "~/.gitignore_global",
+    	"target": "~/Projects/mine/dotfiles/.gitignore_global"
+    },
+    "gitattributes_global": {
+    	"source": "~/.gitattributes_global",
+    	"target": "~/Projects/mine/dotfiles/.gitattributes_global"
+    },
+    "yt-dlp": {
+    	"source": "~/.config/yt-dlp/config",
+    	"target": "~/Projects/mine/dotfiles/.youtube-dl"
+    },
+    "curlrc": {
+    	"source": "~/.curlrc",
+    	"target": "~/Projects/mine/dotfiles/.curlrc"
+    },
+    "ghostty": {
+    	"source": "~/.config/ghostty/config",
+    	"target": "~/Projects/mine/dotfiles/.ghostty"
+    }    
+  }
+}
